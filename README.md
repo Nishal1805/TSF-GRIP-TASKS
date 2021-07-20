@@ -2,7 +2,7 @@
 The Sparks Foundation Data Science and Business Analytics Internship Tasks
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
-Internship Category - Data Science and Business Analytics Internship Duration - 1 Month ( June-2021 ) Internship Type - Work from Home
+Internship Category - Data Science and Business Analytics Internship Duration - 1 Month ( July-2021 ) Internship Type - Work from Home
 
 Task-1 : Prediction using Supervised ML
 ● Predict the percentage of an student based on the no. of study hours.
